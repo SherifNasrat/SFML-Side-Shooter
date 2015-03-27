@@ -1,0 +1,10 @@
+﻿Build started 24/03/2013 07:51:46 PM.
+     1>Project "D:\FCIS\SFML 2.0\SFML 2.0\SFML 2.0.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         D:\Programs\MicrosoftVisualStudio2012Ultimate\Setup\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\FCIS\SFML 2.0\Debug Static\SFML 2.0.exe" /INCREMENTAL /NOLOGO "sfml-graphics-s-d.lib" "sfml-windows-s-d.lib" "sfml-system-s-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\FCIS\SFML 2.0\Debug Static\SFML 2.0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\FCIS\SFML 2.0\Debug Static\SFML 2.0.lib" /MACHINE:X86 "Debug Static\Main.obj"
+     1>LINK : fatal error LNK1104: cannot open file 'sfml-windows-s-d.lib'
+     1>Done Building Project "D:\FCIS\SFML 2.0\SFML 2.0\SFML 2.0.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.08
